@@ -1,10 +1,5 @@
 node_modules/*
 
-# Ignore all images except those not fetched from notion
-images/*
-!images/lead-bg.jpg
-!images/project.jpg
-
 # Ignore all motionlink other_media
 other_media/*
 
